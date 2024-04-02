@@ -1,17 +1,17 @@
 # ParallaxScroll
 
 # Description
-ParallaxScroll is a project that demonstrates how to implement parallax effects on a web page using HTML, CSS and JavaScript. Parallax is a web design technique that creates a sense of depth by moving different layers of content at different speeds as the user scrolls down the page.
+ParallaxScroll is a project that demonstrates how to implement parallax effects on a web page using HTML and CSS. Parallax is a web design technique that creates a sense of depth by moving different layers of content at different speeds as the user scrolls down the page.
 
 ## Characteristics
-Parallax effect on multiple layers.
-Customization of scroll speed for each layer.
+Parallax effect on multiple layers.<br>
+Customization of scroll speed for each layer.<br>
 Compatibility with different screen sizes and devices.
 
 ## Facility
-Clone or download the repository.
+Clone or download the repository. <br>
 Open the index.html file in your web browser.
 
 ## Use
-Navigate the page using the scroll bar or mouse wheel.
+Navigate the page using the scroll bar or mouse wheel.<br>
 Watch as page elements move at different speeds, creating a parallax effect.
