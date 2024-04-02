@@ -68,7 +68,8 @@ html {
 }
 
 section {
-  padding: 50px 80px;
+  padding: 50px ;
+  
 }
 .Dark {
   background-color: #444;
@@ -85,4 +86,8 @@ section {
   .demonstration3 {
     font-size: 200%;
   }
+}
+
+p{
+  text-align: justify;
 }
