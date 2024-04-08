@@ -9,8 +9,8 @@ ParallaxScroll is a project that demonstrates how to implement parallax effects 
 * Compatibility with different screen sizes and devices.
 
 ## Facility
-Clone or download the repository. <br>
-Open the index.html file in your web browser.
+* Clone or download the repository.
+* Open the index.html file in your web browser.
 
 ## Use
 Navigate the page using the scroll bar or mouse wheel.<br>
