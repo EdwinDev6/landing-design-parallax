@@ -12,5 +12,5 @@ ParallaxScroll is a project that demonstrates how to implement parallax effects 
 * Open the index.html file in your web browser.
 
 ### Use
-Navigate the page using the scroll bar or mouse wheel.<br>
-Watch as page elements move at different speeds, creating a parallax effect.
+* Navigate the page using the scroll bar or mouse wheel.
+* Watch as page elements move at different speeds, creating a parallax effect.
