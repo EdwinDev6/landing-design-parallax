@@ -9,19 +9,19 @@ html {
 }
 
 .image1 {
-  background-image: url(images/braden-collum-SjxtHDlDDr0-unsplash.jpg);
+  background-image: url(images/braden.jpg);
   min-height: 100%;
 }
 .image2 {
-  background-image: url(images/leafar-perez-xs-APRcT-R4-unsplash.jpg);
+  background-image: url(images/leafar.jpg);
   min-height: 60%;
 }
 .image3 {
-  background-image: url(images/nicolas-gutierrez-PBjlMVATHZ4-unsplash.jpg);
+  background-image: url(images/nicolas.jpg);
   min-height: 40%;
 }
 .image4 {
-  background-image: url(images/rafael-cisneros-mendez-y5PG8ZecXQI-unsplash.jpg);
+  background-image: url(images/rafael.jpg);
   min-height: 100%;
 }
 
